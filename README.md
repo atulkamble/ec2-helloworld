@@ -216,6 +216,18 @@ bash hello.sh
 ```
 
 ---
+| Language                 | File              | Command                                    | 📌 Significance                                                                                                                                                                    |
+| :----------------------- | :---------------- | :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Python** 🐍            | `hello.py`        | `python3.8 hello.py`                       | High-level, versatile language used for AI/ML, data science, web apps, automation, DevOps scripting, and backend services. Dominates cloud and AI tooling.                         |
+| **Java** ☕               | `HelloWorld.java` | `javac HelloWorld.java && java HelloWorld` | Robust, object-oriented language widely used in enterprise applications, Android development, backend APIs, and large-scale distributed systems.                                   |
+| **C**                    | `hello.c`         | `gcc hello.c -o hello && ./hello`          | Foundational language for systems programming, embedded systems, OS development, and performance-critical applications.                                                            |
+| **C++**                  | `hello.cpp`       | `g++ hello.cpp -o hello && ./hello`        | Extends C with object-oriented capabilities. Popular in game engines (Unreal), systems software, high-frequency trading platforms, and high-performance applications.              |
+| **Go (Golang)** 🐹       | `hello.go`        | `go run hello.go`                          | Designed for cloud-native development, concurrent systems, container orchestration tools (Docker, Kubernetes), and high-performance backend services.                              |
+| **Node.js (JavaScript)** | `hello.js`        | `node hello.js`                            | Server-side JavaScript runtime used for building scalable web applications, real-time apps, and APIs. Key in full-stack and microservices architectures.                           |
+| **PHP**                  | `hello.php`       | `php hello.php`                            | Classic web development language still used in WordPress, Drupal, Magento, and legacy enterprise web systems.                                                                      |
+| **Ruby**                 | `hello.rb`        | `ruby hello.rb`                            | Elegant, expressive language historically known for rapid web development via the Ruby on Rails framework.                                                                         |
+| **Rust** 🦀              | `hello.rs`        | `rustc hello.rs && ./hello`                | Modern systems programming language known for safety, concurrency, and performance. Used in cloud tooling, WebAssembly, security-sensitive applications, and modern OS components. |
+| **Bash**                 | `hello.sh`        | `bash hello.sh`                            | Essential for Linux and cloud infrastructure scripting, automation tasks, deployment pipelines, and system administration.                                                         |
 
 ## ✅ Summary
 

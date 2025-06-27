@@ -10,7 +10,7 @@ After SSH into your EC2 instance:
 sudo yum update -y
 sudo yum install -y gcc gcc-c++ make git
 sudo amazon-linux-extras enable python3.8
-sudo yum install -y python3.8 java-17-openjdk nodejs php ruby golang
+sudo yum install -y python java nodejs php ruby go
 ```
 
 **For newer versions or other runtimes (like Rust, .NET, Dart, etc.), use their official install scripts (I'll mention them where needed).**

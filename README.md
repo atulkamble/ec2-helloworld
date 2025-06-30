@@ -9,7 +9,7 @@ After SSH into your EC2 instance:
 ```bash
 sudo yum update -y
 sudo yum install -y gcc gcc-c++ make git
-sudo amazon-linux-extras enable python3.8
+sudo amazon-linux-extras enable python3
 sudo yum install -y python java nodejs php ruby go
 ```
 
@@ -32,7 +32,7 @@ print("Hello, World!")
 **Run:**
 
 ```bash
-python3.8 hello.py
+python3 hello.py
 ```
 
 ---
